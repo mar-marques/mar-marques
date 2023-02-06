@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, seja bem vindo!
+
+#### Atualmente estou estudando computação e matemática na Universidade Federal do ABC. As principais linguagens de programação em que desenvolvo meus estudos são C, Python e Java. Mas já tive contato com C#, JavaScript, PHP, MySQL, Angular, React, Veu.
+
+- Apaixonado por computação e matemática. :computer:
+- Ciência da Computação - UFABC. :books:
+- Pesquisador na área de topologia matemática. :mag:
 
 <!--
 **mar-marques/mar-marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
